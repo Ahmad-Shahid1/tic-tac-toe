@@ -25,10 +25,10 @@ Requirements
 - No additional libraries or frameworks are required.
 
 1. Compile the source files:
-   
+
 javac TicTacToeValues.java TicTacToe.java TicTacToeApplication.java
 
-2. Run the game:
+3. Run the game:
 
 java TicTacToeApplication
 
